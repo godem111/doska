@@ -2,6 +2,7 @@
 return [
     1 => [
         'admin',
+        'user',
     ],
     6 => [
         'user',
