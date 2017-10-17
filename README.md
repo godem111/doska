@@ -2,8 +2,7 @@
 ============================
 
 весь функционал реализован
-Тесты тоже готовы -  AdsTest, проверка на основе правил RBAC - 
-./vendor/bin/codecept run
+Тесты тоже готовы -  AdsTest, проверка на основе правил RBAC 
 
 git clone https://github.com/godem111/doska
 
